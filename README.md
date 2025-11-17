@@ -1,0 +1,1 @@
+This was an time series analysis project done in 2023, for my Econometric II course. It recieved the grade of 15/20. I chose to work with OECD data an Chile's employment and Business Confidence Index to analyse wether there is a correlation on employment and the state of business affairs.
